@@ -1,0 +1,13 @@
+2,2,2,2,2,2
+fan,0,OFF,0
+fan,1,OFF,0
+light,0,OFF,0,0
+light,1,OFF,0,0
+tv,0,OFF,0,0,0
+tv,1,OFF,122,0,0
+geyser,0,OFF,10
+geyser,1,OFF,10
+ac,0,OFF,17,0,0
+ac,1,OFF,17,0,0
+fridge,0,OFF,0
+fridge,1,OFF,0
