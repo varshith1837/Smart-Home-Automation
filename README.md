@@ -1,4 +1,4 @@
-mart Home Automation System
+Smart Home Automation System
 This project is a console-based Smart Home Device Control System that enables users to manage and control household devices through a unified interface. It is a demonstration of object-oriented programming concepts using C++ classes, encapsulation, and operator overloading. Users can monitor and adjust appliances such as AC, Fan, Fridge, Light, Geyser, and TV, manage device settings, automate device behavior with timers, and track power consumption.​
 
 Features
