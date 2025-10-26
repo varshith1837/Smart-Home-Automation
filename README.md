@@ -70,11 +70,11 @@ Each device type is an object derived from a base `Device` class. Devices suppor
 
 ## Authors
 
-- Nithin Ch (CS23B1102)
-- Sanshrey G (CS23B2014)
-- Varshith B (CS23B2015)
-- Raviteja B (CS23B2011)
-- Susan B (CS23B2026)
+- Nithin Ch
+- Sanshrey G 
+- Varshith B 
+- Raviteja B
+- Susan B
 
 (IIITDM Kancheepuram)
 
